@@ -1,0 +1,6 @@
+/dir/
+*.log
+static/dir
+db.accdb
+db1.accdb
+lamda.txt
